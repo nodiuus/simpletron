@@ -87,10 +87,6 @@ public:
         }
     }
     
-    void TakeInput() {
-
-    }
-
     void LoadProgram(std::vector<int> Program) {
         if (Program.size() <= Memory.size()) {
             std::copy(Program.begin(), Program.end(), Memory.begin());
