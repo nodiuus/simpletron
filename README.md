@@ -1,15 +1,8 @@
 # simpletron
 
-I haven't programmed in any language for a while and decided to try to get back into programming.
-A friend recommended that I try making an interpreter.
+I came across this neat little thing called the Simpletron.
+It's a little project made to understand the basics of assembly programming.
 
-I actually messed up and made a virtual machine instead (IM AN IDIOT)
+Here it is in all its glory, the Simpletron!
 
-But anyways...
-
-After some research, I came across this neat little thing called the Simpletron.
-It's a little project to understand the basics of assembly programming.
-
-Here it is in all its glory, the Simpletron!!!!!!!!!
-
-### TL;DR i made a crappy assembly language
+### TL;DR i made a crappy virtual machine and assembly language
